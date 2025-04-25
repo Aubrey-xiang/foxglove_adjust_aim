@@ -70,7 +70,7 @@ chmod +x connect_fox.sh
 
 **第八步**
 
-进入自己电脑的foxglove软件，点open connect,然后直接open就连上了
+进入自己电脑的foxglove软件，点Open connection,然后直接open就连上了
 
 ![image](https://github.com/user-attachments/assets/545cafdf-9b01-4f5e-8168-1312f46d5ca7)
 ![image](https://github.com/user-attachments/assets/e5b2f1a3-7d44-452e-8ffb-35f605050037)
