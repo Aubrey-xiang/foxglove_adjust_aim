@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/914c8236-ac60-4992-b3c3-d2f236ee9b4f)# foxglove_adjust_aim
-使用foxglove自瞄可视化辅助调试（此方案适用于视觉板性能不够的情况，通过ssh连接，实现远程辅助调试）
+使用foxglove自瞄可视化辅助调试
+
+此方案适用于视觉板性能不够的情况，通过ssh连接，实现远程辅助调试
 
 **第一步**
 
